@@ -1,10 +1,26 @@
 body {
-    background-color: #fee440;
+    background-color: #292927;
     /* height: 100vh; */
     margin: 0rem;
     overflow: hidden;
 }
 
+.links{
+    display: table;
+    width: 100%;
+    position: absolute;
+    top: 2.5%;
+    z-index: 4;
+    
+}
+
+.links>a{
+    display: table-cell;
+    text-align: center;
+    font-family: 'Alte Haas Grotesk';
+    text-decoration: none;
+    color: aliceblue;
+}
 
 
 svg {
@@ -25,16 +41,18 @@ svg {
 
 
 h1 {
-    font-family: 'Alte Haas Grotesk', monospace;
+    font-family: 'marola', monospace;
     font-size: clamp(3rem, 10vw, 10rem);
     color: white;
     padding: 0rem clamp(1rem, 2vw, 3rem);
     margin: 0rem;
     position: absolute;
-    left: 45%;
-    top: 45%;
+    left: 50%;
+    top: 50%;
     translate: -50% -50%;
     z-index: 3;
   }
   
+
+
 
