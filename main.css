@@ -1,6 +1,12 @@
 body {
     background-color: #fee440;
+    /* height: 100vh; */
+    margin: 0rem;
+    overflow: hidden;
 }
+
+
+
 svg {
     position: fixed;
     top: 0;
@@ -9,4 +15,26 @@ svg {
     height: 100vh;
 }
 
+#blur {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 3;
+    backdrop-filter: blur(.5vmax);
+}
+
+
+h1 {
+    font-family: 'Alte Haas Grotesk', monospace;
+    font-size: clamp(3rem, 10vw, 10rem);
+    color: white;
+    padding: 0rem clamp(1rem, 2vw, 3rem);
+    margin: 0rem;
+    position: absolute;
+    left: 45%;
+    top: 45%;
+    translate: -50% -50%;
+    z-index: 3;
+  }
+  
 
