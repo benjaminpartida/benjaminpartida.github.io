@@ -53,6 +53,11 @@ h1 {
     z-index: 3;
   }
   
-
+@font-face {
+    font-family: marola;
+    src: url("../../benjaminpartida/MAROLA__.TTF") format('truetype');
+/*    font-weight: bold;*/
+    font-style: normal;
+}
 
 
