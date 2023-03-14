@@ -61,7 +61,7 @@ h1 {
 }
 
 @font-face {
-    font-family: marola;
+    font-family: MAROLA;
     src: url("../../benjaminpartida.github.io/MAROLA__.TTF") format('truetype');
 /*    font-weight: bold;*/
     font-style: normal;
