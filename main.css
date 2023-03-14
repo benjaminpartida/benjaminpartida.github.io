@@ -51,7 +51,7 @@ svg {
 
 
 h1 {
-    font-family: 'marola', monospace;
+    font-family: 'marola', normal;
     font-size: clamp(3rem, 10vw, 10rem);
     color: white;
     padding: 0rem clamp(1rem, 2vw, 3rem);
