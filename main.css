@@ -22,6 +22,16 @@ body {
     color: aliceblue;
 }
 
+.git{
+    position: absolute;
+    left: 50%;
+    bottom: 2.5%;
+    z-index: 4;
+    text-decoration: none;
+    font-family: 'Alte Haas Grotesk';
+    color: aliceblue;
+}
+
 
 svg {
     position: fixed;
@@ -68,7 +78,7 @@ h1 {
 }
 
 @font-face {
-    font-family: marola;
+    font-family: MAROLA;
     src: url("../benjaminpartida.github.io/MAROLA__.TTF") format('truetype');
 /*    font-weight: bold;*/
     font-style: normal;
