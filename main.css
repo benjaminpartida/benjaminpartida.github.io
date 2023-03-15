@@ -65,14 +65,14 @@ h1 {
   
 @font-face {
     font-family: marola;
-    src: url("../../benjaminpartida/MAROLA__.TTF") format('truetype');
+    src: url("../../benjaminpartida/fonts/marola.TTF") format('truetype');
 /*    font-weight: bold;*/
     font-style: normal;
 }
 
 @font-face {
     font-family: marola;
-    src: url("../benjaminpartida/MAROLA__.TTF") format('truetype');
+    src: url("../benjaminpartida/fonts/marola.TTF") format('truetype');
 /*    font-weight: bold;*/
     font-style: normal;
 }
@@ -80,10 +80,19 @@ h1 {
 
 @font-face {
     font-family: marola;
-    src: url("benjaminpartida/MAROLA__.TTF") format('truetype');
+    src: url("benjaminpartida/fonts/marola.TTF") format('truetype');
 /*    font-weight: bold;*/
     font-style: normal;
 }
+
+@font-face {
+    font-family: marola;
+    src: url("fonts/marola.TTF") format('truetype');
+/*    font-weight: bold;*/
+    font-style: normal;
+}
+
+
 
 
 
