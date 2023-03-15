@@ -71,18 +71,21 @@ h1 {
 }
 
 @font-face {
-    font-family: MAROLA;
-    src: url("../../benjaminpartida.github.io/MAROLA__.TTF") format('truetype');
+    font-family: marola;
+    src: url("../benjaminpartida/MAROLA__.TTF") format('truetype');
 /*    font-weight: bold;*/
     font-style: normal;
 }
 
+
 @font-face {
-    font-family: MAROLA;
-    src: url("../benjaminpartida.github.io/MAROLA__.TTF") format('truetype');
+    font-family: marola;
+    src: url("benjaminpartida/MAROLA__.TTF") format('truetype');
 /*    font-weight: bold;*/
     font-style: normal;
 }
+
+
 
 
 
