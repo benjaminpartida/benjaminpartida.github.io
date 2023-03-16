@@ -17,7 +17,7 @@ body {
 .links>a{
     display: table-cell;
     text-align: center;
-    font-family: 'Alte Haas Grotesk';
+    font-family: 'altehaas';
     text-decoration: none;
     color: aliceblue;
 }
@@ -28,7 +28,7 @@ body {
     bottom: 2.5%;
     z-index: 4;
     text-decoration: none;
-    font-family: 'Alte Haas Grotesk';
+    font-family: 'altehaas';
     color: aliceblue;
 }
 
@@ -89,6 +89,12 @@ h1 {
     font-family: marola;
     src: url("fonts/marola.TTF") format('truetype');
 /*    font-weight: bold;*/
+    font-style: normal;
+}
+
+@font-face {
+    font-family: altehaas;
+    src: url("fonts/AlteHaasGroteskRegular.ttf") format('truetype');
     font-style: normal;
 }
 
