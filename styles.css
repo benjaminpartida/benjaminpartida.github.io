@@ -1,4 +1,3 @@
-
 .row {
     display: flex;
     flex-wrap: wrap;
@@ -60,24 +59,25 @@ svg {
   backdrop-filter: blur(1vmax);
 }
 
-
 .backbutton{
-  position: fixed;
-  left: 50%;
-  bottom: 2.5%;
-  background-color: #893fce; /* Green */
-  border: none;
-  border-radius: 5px;
-  color: white;
   padding: 10px 15px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 15px;
+  position: fixed;
+  left: 50%;
+  bottom: 2.5%;
+  background: rgba(255, 255, 255, 0.22);
+  border-radius: 12px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
 }
-  
+
 .backbutton:hover{
-  background: white;
+  background: rgba(255, 255, 255, 0.9);;
   color: #292927;
 }
 
