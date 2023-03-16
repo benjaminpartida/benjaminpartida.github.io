@@ -11,7 +11,6 @@ body {
     position: absolute;
     top: 2.5%;
     z-index: 4;
-    
 }
 
 .links>a{
@@ -77,7 +76,6 @@ h1 {
     font-style: normal;
 }
 
-
 @font-face {
     font-family: marola;
     src: url("benjaminpartida/fonts/marola.TTF") format('truetype');
@@ -98,11 +96,20 @@ h1 {
     font-style: normal;
 }
 
+@font-face {
+    font-family: altehaas;
+    src: url("benjaminpartida/fonts/AlteHaasGroteskRegular.ttf") format('truetype');
+    font-style: normal;
+}
 
+@font-face {
+    font-family: altehaas;
+    src: url("../benjaminpartida/fonts/AlteHaasGroteskRegular.ttf") format('truetype');
+    font-style: normal;
+}
 
-
-
-
-
-
-
+@font-face {
+    font-family: altehaas;
+    src: url("../../benjaminpartida/fonts/AlteHaasGroteskRegular.ttf") format('truetype');
+    font-style: normal;
+}
