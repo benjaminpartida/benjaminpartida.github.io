@@ -119,3 +119,9 @@ h1 {
     src: url("../../benjaminpartida/fonts/Panchang.ttf") format('truetype');
     font-style: normal;
 }
+
+@font-face {
+    font-family: panchang;
+    src: url("../benjaminpartida/fonts/Panchang.ttf") format('truetype');
+    font-style: normal;
+}
