@@ -1,5 +1,5 @@
 body {
-    background-color: #292927;
+    background-color: #F7DBA7;
     /* height: 100vh; */
     margin: 0rem;
     overflow: hidden;
@@ -18,7 +18,7 @@ body {
     text-align: center;
     font-family: 'altehaas';
     text-decoration: none;
-    color: aliceblue;
+    color: #11151C;
 }
 
 .git{
@@ -28,7 +28,7 @@ body {
     z-index: 4;
     text-decoration: none;
     font-family: 'altehaas';
-    color: aliceblue;
+    color: #11151C;
 }
 
 
@@ -52,7 +52,7 @@ svg {
 h1 {
     font-family: 'marola', normal;
     font-size: clamp(3rem, 10vw, 10rem);
-    color: white;
+    color: #11151C;
     padding: 0rem clamp(1rem, 2vw, 3rem);
     margin: 0rem;
     position: absolute;
