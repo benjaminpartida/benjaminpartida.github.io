@@ -116,12 +116,12 @@ h1 {
 
 @font-face {
     font-family: panchang;
-    src: url("../../benjaminpartida/fonts/Panchang.ttf") format('truetype');
+    src: url("benjaminpartida/fonts/Panchang.ttf") format('truetype');
     font-style: normal;
 }
 
 @font-face {
     font-family: panchang;
-    src: url("../benjaminpartida/fonts/Panchang.ttf") format('truetype');
+    src: url("fonts/Panchang.ttf") format('truetype');
     font-style: normal;
 }
