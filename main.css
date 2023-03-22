@@ -50,7 +50,7 @@ svg {
 
 
 h1 {
-    font-family: 'marola', normal;
+    font-family: 'panchang','marola', normal;
     font-size: clamp(3rem, 10vw, 10rem);
     color: #11151C;
     padding: 0rem clamp(1rem, 2vw, 3rem);
@@ -111,5 +111,11 @@ h1 {
 @font-face {
     font-family: altehaas;
     src: url("../../benjaminpartida/fonts/AlteHaasGroteskRegular.ttf") format('truetype');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: panchang;
+    src: url("../../benjaminpartida/fonts/Panchang.ttf") format('truetype');
     font-style: normal;
 }
