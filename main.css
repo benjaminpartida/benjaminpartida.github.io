@@ -73,7 +73,8 @@ h1 {
 
 h1 {
 
-    font-family: 'panchang','marola', normal;
+    font-family: 'panchang';
+    font-weight: regular;
     font-size: clamp(3rem, 10vw, 10rem);
     color: rgba(48, 48, 48, 0.301);
     padding: 0rem clamp(1rem, 2vw, 3rem);
@@ -120,11 +121,11 @@ h1 {
 @font-face {
     font-family: panchang;
     src: url("benjaminpartida/fonts/Panchang.ttf") format('truetype');
-    font-style: normal;
+    font-style: regular;
 }
 
 @font-face {
     font-family: panchang;
     src: url("fonts/Panchang.ttf") format('truetype');
-    font-style: normal;
+    font-style: regular;
 }
