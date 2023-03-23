@@ -76,7 +76,7 @@ h1 {
     font-family: 'panchang';
     font-weight: 700;
     font-size: clamp(3rem, 10vw, 10rem);
-    color: rgba(48, 48, 48, 0.301);
+    color: rgba(48, 48, 48, 0.096);
     padding: 0rem clamp(1rem, 2vw, 3rem);
     margin: 0rem;
     position: absolute;
@@ -84,7 +84,7 @@ h1 {
     top: 50%;
     translate: -50% -50%;
     z-index: 3;    
-    text-shadow: 1px 1px 5px rgba(48, 48, 48, 0.616);
+    text-shadow: 1px 1px 5px rgba(48, 48, 48, 0.404);
         /* wheat color F7DBA7 */
     
     
