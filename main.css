@@ -74,7 +74,7 @@ h1 {
 h1 {
 
     font-family: 'panchang';
-    font-weight: 700;
+    font-weight: 400;
     font-size: clamp(3rem, 10vw, 10rem);
     color: rgba(48, 48, 48, 0.096);
     padding: 0rem clamp(1rem, 2vw, 3rem);
